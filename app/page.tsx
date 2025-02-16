@@ -192,6 +192,9 @@ export default function Home() {
         <p>© ADS Films 2020-2025</p>
       </footer>
     </main>
+
+
+    
   )
 }
 
