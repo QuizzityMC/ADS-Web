@@ -23,7 +23,7 @@ export default function Home() {
           <div className="flex items-center justify-between h-16">
             <Link href="/" className="text-white text-xl font-semibold flex items-center gap-2">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-MM9DMPGpejNIaxDBjUtRORFPCLeX05.png"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-tPOAhOTD8gGTvpYnVhvd89XFwj1BIV.png"
                 alt="ADS Films Logo"
                 width={32}
                 height={32}
@@ -190,11 +190,11 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-4 text-center">
         <p>© ADS Films 2020-2025</p>
+        <Link href="/admin" className="text-xs text-gray-400 hover:text-gray-300 mt-1 inline-block">
+          Admin Pages
+        </Link>
       </footer>
     </main>
-
-
-    
   )
 }
 
