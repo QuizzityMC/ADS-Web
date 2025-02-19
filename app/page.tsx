@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col">
-      {/* Top Banner */}
+      {}
       <div className="bg-orange-400 py-2 px-4 text-center">
         <div className="flex items-center justify-center gap-4">
           <span>TBITN Premiere is this March! Tickets for sale!</span>
@@ -17,7 +17,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Navigation */}
+      {}
       <nav className="bg-gray-900">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16">
@@ -50,7 +50,7 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* Hero Section */}
+      {}
       <div className="relative min-h-screen">
         <Image
           src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/background-ZzgiBq5MbHmnUcZOsLaqSYEao3P1Sz.png"
@@ -68,7 +68,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Anniversary Section */}
+      {}
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center max-w-4xl mx-auto">
@@ -78,7 +78,7 @@ export default function Home() {
               <h3 className="text-2xl font-semibold mb-4">"The Body in the Night" premiere in March</h3>
               <p className="text-gray-600 mb-8">Select "Book Now" Above!</p>
 
-              {/* First Video Embed */}
+              {}
               <div className="mb-12">
                 <iframe
                   src="https://drive.google.com/file/d/1GxnGuQDk6CN8BXaMKrd1aUDrKifCD-R_/preview"
@@ -89,7 +89,7 @@ export default function Home() {
                 ></iframe>
               </div>
 
-              {/* Second Video Embed */}
+              {}
               <div className="mb-12">
                 <iframe
                   width="800"
@@ -105,7 +105,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Premiere Announcement Section */}
+      {}
       <section className="py-20 bg-gray-900 text-white">
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
@@ -128,7 +128,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Film Showcase Section */}
+      {}
       <section className="py-20 bg-gray-100">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center mb-12 gap-4">
@@ -187,7 +187,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer */}
+      {}
       <footer className="bg-gray-900 text-white py-4 text-center">
         <p>© ADS Films 2020-2025</p>
         <Link href="/admin" className="text-xs text-gray-400 hover:text-gray-300 mt-1 inline-block">
