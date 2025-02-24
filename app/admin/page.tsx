@@ -6,31 +6,31 @@ const adminLinks = [
   {
     title: "Ticket Booking",
     description: "Manage ticket bookings and sales",
-    url: "https://tickets.adsfilms.xyz/",
+    url: "https://tickets.adsfilms.org/",
     category: "Tickets",
   },
   {
     title: "Cashier",
     description: "Process payments and transactions",
-    url: "https://cashier.adsfilms.xyz/",
+    url: "https://cashier.adsfilms.org/",
     category: "Finance",
   },
   {
     title: "Ticket Data Checker",
     description: "Verify and manage ticket data",
-    url: "https://tickets.adsfilms.xyz/admin/login",
+    url: "https://tickets.adsfilms.org/admin/login",
     category: "Tickets",
   },
   {
     title: "Cash Register Totals",
     description: "View financial summaries and reports",
-    url: "https://cashier.adsfilms.xyz/totals",
+    url: "https://cashier.adsfilms.org/totals",
     category: "Finance",
   },
   {
     title: "Streaming Service",
     description: "Manage streaming platform",
-    url: "https://quizzitymc.github.io/ADSFilms-Site/",
+    url: "https://streaming.adsfilms.org",
     category: "Content",
   },
   {
