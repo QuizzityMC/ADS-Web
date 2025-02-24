@@ -10,7 +10,7 @@ export default function Home() {
         <div className="flex items-center justify-center gap-4">
           <span>TBITN Premiere is this March! Tickets for sale!</span>
           <Button variant="secondary" size="sm" asChild>
-            <Link href="http://tickets.adsfilms.xyz/" target="_blank">
+            <Link href="http://tickets.adsfilms.org/" target="_blank">
               Book Here
             </Link>
           </Button>
