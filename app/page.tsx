@@ -110,7 +110,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tBitN%20Poster%20Chase%20A%20(1)-OaBvAp3ypV4plFLCn9yoH201qSz9tG.png"
+              src="https://export-download.canva.com/oAtNo/DAGeGGoAtNo/50/0/0001-5153701908181312621.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20250301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250301T181756Z&X-Amz-Expires=69272&X-Amz-Signature=ae7d8937b3e8cf386084372ca858c3ec0e978044ae7696fdf41ef453f84f331b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27tBitN%2520Poster%2520Chase%2520A.png&response-expires=Sun%2C%2002%20Mar%202025%2013%3A32%3A28%20GMT"
               alt="The Body in the Night - Premiere March 21, 2025"
               width={1920}
               height={1080}
