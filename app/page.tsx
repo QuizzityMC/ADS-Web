@@ -5,17 +5,6 @@ import { Button } from "@/components/ui/button"
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col">
-      {}
-      <div className="bg-orange-400 py-2 px-4 text-center">
-        <div className="flex items-center justify-center gap-4">
-          <span>TBITN Premiere is this March! Tickets for sale!</span>
-          <Button variant="secondary" size="sm" asChild>
-            <Link href="http://tickets.adsfilms.org/" target="_blank">
-              Book Here
-            </Link>
-          </Button>
-        </div>
-      </div>
 
       {}
       <nav className="bg-gray-900">
@@ -81,7 +70,7 @@ export default function Home() {
               {}
               <div className="mb-12">
                 <iframe
-                  src="https://drive.google.com/file/d/1GxnGuQDk6CN8BXaMKrd1aUDrKifCD-R_/preview"
+                  src="https://drive.usercontent.google.com/download?id=1xiHqf9waK2_LL6eg8f4kshfRhztzjwji&export=download&authuser=0&confirm=t&uuid=9108048c-d3de-446c-9f84-0c5eff2153b3&at=AEz70l4Fm7lm3CO2RQIE1xzmevfw:1742380499936"
                   width="800"
                   height="450"
                   className="mx-auto rounded-lg shadow-lg mb-8"
